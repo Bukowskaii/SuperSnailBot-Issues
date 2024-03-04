@@ -1,7 +1,7 @@
 # SuperSnailBot-Issues
 Public Issues Tracker for SuperSnailBot
 
-Always check the issues section to ensure you are not reporting or requesting a duplicate. Any submissions not using the below templates will be cloased without mercy.
+Always check the [issues](https://github.com/Bukowskaii/SuperSnailBot-Issues/issues) section to ensure you are not reporting or requesting a duplicate. Any submissions not using the below templates will be cloased without mercy.
 
 ## For Bug Reports
 
